@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+scraper_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# data
+*.csv
