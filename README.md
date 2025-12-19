@@ -14,7 +14,7 @@ This repo contains a custom scraper (because the CSVs online were outdated) and 
 
 - `IMDb_Scraper.ipynb` -> The script. Scrapes live data, cleans it, and handles the "2h 45m" string conversion.
 - `imdb_analysis.ipynb` -> The findings. Charts for trends, ratings, and runtimes.
-- Cleaned data ready for the next step (ML).
+- `IMDb_ML.ipynb` -> the actual machine learning program which predicts the rating of movies depending on the given features.
 
 ## 🌌 The Path
 
