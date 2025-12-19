@@ -5,6 +5,7 @@ scraper_env/
 # Python cache files
 __pycache__/
 *.pyc
+*.ipynb_checkpoints
 
 # data
 *.csv
