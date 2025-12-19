@@ -20,4 +20,10 @@ This repo contains a custom scraper (because the CSVs online were outdated) and 
 
 - [x] Scraper
 - [x] Analysis
-- [x] ML Model (Random Forest) 
+- [x] ML Model (Random Forest)
+
+## The Webapp
+
+To finish this project, I created a Web App which allows the user to see a live prediction of the movie rating based on the features.
+
+(NOTE: Based on the "biased" data, the model performs badly for movies below 8.0. This issue will be fixed in the future🙃)
